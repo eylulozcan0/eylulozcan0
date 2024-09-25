@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Eylul Naz Ozcan
-- I'm studying in Bilkent as a freshman in the computer science department.
+- ## Hi, I’m Eylul Naz Ozcan 
+# Education
+- Bilkent University
+- majoring computer science
+- 1st year
+# Contact
+- ** mail:** ozcan.eylul0407@gmail.com  
+
+
 
 
