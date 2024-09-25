@@ -4,7 +4,7 @@
 - majoring computer science
 - 1st year
 # Contact
-- ** mail:** ozcan.eylul0407@gmail.com  
+- **mail:** ozcan.eylul0407@gmail.com  
 
 
 
