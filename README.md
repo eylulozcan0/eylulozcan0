@@ -2,7 +2,7 @@
 # Education
 - Bilkent University
 - majoring computer science
-- 1st year
+- 2nd year
 # Contact
 - **mail:** ozcan.eylul0407@gmail.com  
 
